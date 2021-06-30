@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["53:81:2F:AE:3D:07:11:91:CC:0A:11:EF:0F:A9:2E:F3:42:B6:90:F8:30:01:98:4B:54:8F:4B:0F:A4:2C:4F:08"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.yangpeng.android.fitactions",
+    "sha256_cert_fingerprints":
+    ["53:81:2F:AE:3D:07:11:91:CC:0A:11:EF:0F:A9:2E:F3:42:B6:90:F8:30:01:98:4B:54:8F:4B:0F:A4:2C:4F:08"]
+  }
 }]
